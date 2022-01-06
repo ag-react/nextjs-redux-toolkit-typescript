@@ -1,2 +1,1 @@
-# nextjs-redux-toolkit-typescript
-Created with CodeSandbox
+# Hello, Enjoy.
